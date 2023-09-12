@@ -1,0 +1,14 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Good With Data"
+  text: "We provide data-focused consultancy services to NGOs and the charity sector."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Get in touch"
+    url: "mailto:hello@goodwithdata.uk.org"

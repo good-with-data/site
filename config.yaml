@@ -1,0 +1,65 @@
+baseURL: "https://goodwithdata.org.uk"
+theme: "up-business-theme"
+languageCode: "en-gb"
+
+title: "Good With Data"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Good With Data"
+  description: "We provide data-focused consultancy services to NGOs and the charity sector."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    linkedin: "#"
+#    instagram: "#"
+#    facebook: "#"
+#    twitter: "#"
+
+  location:
+    - "Brighton"
+
+  contact:
+    - "hello@goodwithdata.org.uk"
+
+  copyright: "© 2023 Good With Data All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "What we do"
+      url: "/#"
+      weight: 2
+
+  buttons:
+    - name: "Get in touch"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "What we do"
+      url: "/#"
+      weight: 2
+
+taxonomies:
+  series: "series"
+  tags: "datascience data oriented consultancy ngo charity"
