@@ -3,7 +3,7 @@ id: "hero"
 
 content:
   title: "Good With Data"
-  text: "We provide data-focused consultancy services to NGOs and the charity sector."
+  text: "We are a non-profit, community interest company, that provides data-focused consultancy services to NGOs and the charity sector"
 
   buttonPrimary:
     label: "What we do"

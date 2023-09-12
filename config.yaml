@@ -2,15 +2,15 @@ baseURL: "https://goodwithdata.org.uk"
 theme: "up-business-theme"
 languageCode: "en-gb"
 
-title: "Good With Data"
+title: "Good With Data CIC"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Good With Data"
-  description: "We provide data-focused consultancy services to NGOs and the charity sector."
+  title: "Good With Data CIC"
+  description: "We are a non-profit, community interest company, that provides data-focused consultancy services to NGOs and the charity sector."
   images: 
     - "images/hero-image.png"
 
@@ -38,7 +38,7 @@ params:
 menus:
   main:
     - name: "Home"
-      url: "/#hero"
+      url: "/#"
       weight: 1
 
     - name: "What we do"
@@ -47,13 +47,13 @@ menus:
 
   buttons:
     - name: "Get in touch"
-      url: "/#"
+      url: "mailto:hello@goodwithdata.org.uk"
       weight: 5
       pre: "btn btn-primary text-light"
 
   footer:
     - name: "Home"
-      url: "/#hero"
+      url: "/#"
       weight: 1
 
     - name: "What we do"
