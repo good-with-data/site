@@ -4,8 +4,6 @@ languageCode: "en-gb"
 
 title: "Good With Data CIC"
 
-# googleAnalytics: ""
-
 summaryLength: 20
 
 params:
@@ -23,9 +21,6 @@ params:
 
   social:
     linkedin: "#"
-#    instagram: "#"
-#    facebook: "#"
-#    twitter: "#"
 
   location:
     - "Brighton"
