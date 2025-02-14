@@ -16,7 +16,7 @@ params:
   images: 
     - "images/hero-image.png"
 
-  logo: "arrow-up.png"
+  logo: "images/GWD_logo.png"
 
   favicons:
     themeColor: "#FFFFFF"
