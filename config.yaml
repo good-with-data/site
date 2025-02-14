@@ -22,7 +22,7 @@ params:
     faviconColor: "#000000"
 
   social:
-    linkedin: "#"
+    linkedin: "https://www.linkedin.com/company/good-with-data-cic/"
 #    instagram: "#"
 #    facebook: "#"
 #    twitter: "#"
