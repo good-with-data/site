@@ -16,7 +16,7 @@ params:
   images: 
     - "images/hero-image.png"
 
-  logo: "images/GWD_logo.png"
+  logo: "images/gwd_logo.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -24,7 +24,7 @@ params:
     faviconColor: "#000000"
 
   social:
-    linkedin: "#"
+    linkedin: "https://www.linkedin.com/company/good-with-data-cic/"
 
   location:
     - "Brighton"
