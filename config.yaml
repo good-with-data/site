@@ -4,7 +4,9 @@ languageCode: "en-gb"
 
 title: "Good With Data CIC"
 
-googleAnalytics: "G-FGK41S25ET"
+services: 
+  googleAnalytics: 
+    id: "G-FGK41S25ET"
 
 summaryLength: 20
 
@@ -23,9 +25,6 @@ params:
 
   social:
     linkedin: "#"
-#    instagram: "#"
-#    facebook: "#"
-#    twitter: "#"
 
   location:
     - "Brighton"
