@@ -26,12 +26,11 @@ params:
     twitter: "#"
 
   location:
-    - "London, United Kingdom"
+    - "Brighton, London, Manchester, United Kingdom"
     - "Remote consultancy available"
 
   contact:
     - "hello@goodwithdata.org"
-    - "+44 (0) 123 456 789"
 
   copyright: "© 2025 Good With Data CIC All Rights Reserved"
 
