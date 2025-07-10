@@ -41,7 +41,7 @@ menus:
       weight: 1
 
     - name: "Services"
-      url: "/#services"
+      url: "/services"
       weight: 2
 
     - name: "Portfolio"
@@ -68,7 +68,7 @@ menus:
       weight: 1
 
     - name: "Services"
-      url: "/#services"
+      url: "/services"
       weight: 2
 
     - name: "Portfolio"
