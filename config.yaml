@@ -45,21 +45,17 @@ menus:
       url: "/#services"
       weight: 2
 
-    - name: "Projects"
-      url: "/projects"
+    - name: "Portfolio"
+      url: "/portfolio"
       weight: 3
-
-    - name: "Partners"
-      url: "/partners"
-      weight: 4
 
     - name: "Blog"
       url: "/post"
-      weight: 5
+      weight: 4
 
     - name: "About"
       url: "/about"
-      weight: 6
+      weight: 5
 
   buttons:
     - name: "Get in touch"
@@ -76,21 +72,17 @@ menus:
       url: "/#services"
       weight: 2
 
-    - name: "Projects"
-      url: "/projects"
+    - name: "Portfolio"
+      url: "/portfolio"
       weight: 3
-
-    - name: "Partners"
-      url: "/partners"
-      weight: 4
 
     - name: "Blog"
       url: "/post"
-      weight: 5
+      weight: 4
 
     - name: "About"
       url: "/about"
-      weight: 6
+      weight: 5
 
 taxonomies:
   series: "series"
