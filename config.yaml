@@ -1,0 +1,102 @@
+baseURL: "http://localhost:1313/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Good With Data CIC"
+
+summaryLength: 20
+
+params:
+  title: "Good With Data CIC"
+  description: "Data science and analytics consultancy helping organizations unlock the power of their data"
+  images: 
+    - "images/gwd_logo.png"
+
+  logo: "gwd_logo.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "London, United Kingdom"
+    - "Remote consultancy available"
+
+  contact:
+    - "hello@goodwithdata.org"
+    - "+44 (0) 123 456 789"
+
+  copyright: "© 2025 Good With Data CIC All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Services"
+      url: "/#services"
+      weight: 2
+
+    - name: "Projects"
+      url: "/projects"
+      weight: 3
+
+    - name: "Partners"
+      url: "/partners"
+      weight: 4
+
+    - name: "Blog"
+      url: "/post"
+      weight: 5
+
+    - name: "About"
+      url: "/about"
+      weight: 6
+
+  buttons:
+    - name: "Get in touch"
+      url: "/#contact"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Services"
+      url: "/#services"
+      weight: 2
+
+    - name: "Projects"
+      url: "/projects"
+      weight: 3
+
+    - name: "Partners"
+      url: "/partners"
+      weight: 4
+
+    - name: "Blog"
+      url: "/post"
+      weight: 5
+
+    - name: "About"
+      url: "/about"
+      weight: 6
+
+taxonomies:
+  series: "series"
+  tags: "tags"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
