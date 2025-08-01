@@ -24,30 +24,25 @@ We believe that effective use of data and technology can transform how non-profi
 
 ## Our Directors
 
-### Director One
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
   <div style="width: 150px; height: 150px; background-color: #f8f9fa; border: 2px dashed #dee2e6; border-radius: 8px; margin-right: 1.5rem; display: flex; align-items: center; justify-content: center; color: #6c757d; font-size: 0.9rem;">
     Photo Placeholder
   </div>
   <div style="flex: 1;">
-    <h4 style="margin-top: 0; margin-bottom: 0.5rem;">Director Name</h4>
-    <p style="color: #6c757d; margin-bottom: 1rem;"><strong>Role:</strong> Co-Director & [Specialization]</p>
-    <p>Director One brings extensive experience in [relevant field]. Their background includes [key experience/qualifications]. They are passionate about [relevant interests] and have previously worked with [types of organizations/projects].</p>
-    <p>At Good With Data CIC, Director One focuses on [specific responsibilities/areas of expertise]. They believe that [personal philosophy or approach to the work].</p>
-    <p><strong>Contact:</strong> <a href="mailto:director1@goodwithdata.org">director1@goodwithdata.org</a></p>
+    <h4 style="margin-top: 0; margin-bottom: 0.5rem;">Dr. Austin Haffenden</h4>
+    <p style="color: #6c757d; margin-bottom: 1rem;"><strong>Role: </strong>Co-Director and Data Science Consultant</p>
+    <p>Austin is a data science consultant with extensive experience in the public and private sectors. He holds a PhD in Computational Ecology from Keele University and has worked as an academic in the UK and France. [More Data Science stuff] Austin also has extensive experience of teaching/training both in academia and in the non-profit sector and is a Fellow of the Higher Education Authority after completing the Teaching and Learning in Higher Education Programme.</p>
+    <p>Austin specialises in analysing and formulating solutions to difficult problems, managing projects and facilitating communication.</p>
   </div>
 </div>
 
-### Director Two
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
   <div style="width: 150px; height: 150px; background-color: #f8f9fa; border: 2px dashed #dee2e6; border-radius: 8px; margin-right: 1.5rem; display: flex; align-items: center; justify-content: center; color: #6c757d; font-size: 0.9rem;">
     Photo Placeholder
   </div>
   <div style="flex: 1;">
     <h4 style="margin-top: 0; margin-bottom: 0.5rem;">Director Name</h4>
-    <p style="color: #6c757d; margin-bottom: 1rem;"><strong>Role:</strong> Co-Director & [Specialization]</p>
+    <p style="color: #6c757d; margin-bottom: 1rem;"><strong>Role :</strong> Co-Director & Software Engineer</p>
     <p>Director Two has a strong background in [relevant field]. With experience in [key experience/qualifications], they bring valuable expertise in [specific skills/knowledge areas]. They have a particular interest in [relevant interests].</p>
     <p>At Good With Data CIC, Director Two leads [specific responsibilities/areas of expertise]. Their approach emphasizes [personal philosophy or methodology].</p>
     <p><strong>Contact:</strong> <a href="mailto:director2@goodwithdata.org">director2@goodwithdata.org</a></p>
