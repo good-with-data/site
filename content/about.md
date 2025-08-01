@@ -43,9 +43,9 @@ We believe that effective use of data and technology can transform how non-profi
   <div style="flex: 1;">
     <h4 style="margin-top: 0; margin-bottom: 0.5rem;">Director Name</h4>
     <p style="color: #6c757d; margin-bottom: 1rem;"><strong>Role :</strong> Co-Director & Software Engineer</p>
-    <p>Director Two has a strong background in [relevant field]. With experience in [key experience/qualifications], they bring valuable expertise in [specific skills/knowledge areas]. They have a particular interest in [relevant interests].</p>
-    <p>At Good With Data CIC, Director Two leads [specific responsibilities/areas of expertise]. Their approach emphasizes [personal philosophy or methodology].</p>
-    <p><strong>Contact:</strong> <a href="mailto:director2@goodwithdata.org">director2@goodwithdata.org</a></p>
+    <p>Patricio is a seasoned software engineer and director with over 18 years of experience in consulting and software development, focusing on large-scale projects for a diverse range of companies and organizations. His expertise covers various sectors and industries, including financial institutions, NGOs, and charities, showcasing versatility and adaptability.</p>
+    <p>Specializing in software development and architecture, data pipelines, DevOps, and cloud infrastructure, he is strongly committed to sustainable software and development practices. He believes in the sustainability of a product's lifecycle, often choosing long-term viability over immediate growth.</p>
+    <p>An advocate for open-source software, he supports standards and interoperability of services. He enjoys being part of communities that foster collaboration and innovation, contributing to the open-source ecosystem whenever possible.</p>
   </div>
 </div>
 
