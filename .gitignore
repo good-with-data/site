@@ -5,9 +5,36 @@
 # Hugo cache
 /.hugo_build.lock
 
-# Node modules
+# Temporary files
+*~
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if using npm/yarn for dependencies)
 node_modules/
 
-# OS files
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
