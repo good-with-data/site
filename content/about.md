@@ -1,25 +1,66 @@
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-+++
+---
+title: "About Good With Data CIC"
+description: "Learn about our mission, team, and approach to helping organizations unlock the power of their data"
+date: 2025-01-10
+layout: "single"
+---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# About Good With Data CIC
 
-Hugo makes use of a variety of open source projects including:
+Good With Data CIC, established in 2023, is a Community Interest Company (CIC) specialising in data focused consulting and training for the non-profit sector. Our mission is to support non-profit's ability to use data and technology to achieve their goals. We connect them with industry professionals and drive impact through our expertise with data science and software engineering.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## Our Mission
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+We believe that effective use of data and technology can transform how non-profit organizations operate, make decisions, and achieve their social impact goals. We work collaboratively with charities, foundations, and community organizations to build their data capabilities and implement solutions that drive real change.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## Our Approach
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+- **Collaborative**: We work closely with our partners to understand their unique challenges and objectives
+- **Ethical**: We prioritize data privacy, consent, and responsible AI practices in all our work
+- **Practical**: Our solutions are designed to be sustainable and implementable within existing organizational structures
+- **Impact-focused**: Every project is designed to measurably improve our partners' ability to achieve their mission
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+---
+
+## Our Directors
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <div style="width: 150px; height: 150px; background-color: #f8f9fa; border: 2px dashed #dee2e6; border-radius: 8px; margin-right: 1.5rem; display: flex; align-items: center; justify-content: center; color: #6c757d; font-size: 0.9rem;">
+    Photo Placeholder
+  </div>
+  <div style="flex: 1;">
+    <h4 style="margin-top: 0; margin-bottom: 0.5rem;">Dr. Austin Haffenden</h4>
+    <p style="color: #6c757d; margin-bottom: 1rem;"><strong>Role: </strong>Co-Director and Data Science Consultant</p>
+    <p>Austin is a data science consultant with extensive experience in the public and private sectors. He holds a PhD in Computational Ecology from Keele University and has worked as an academic in the UK and France. [More Data Science stuff] Austin also has extensive experience of teaching/training both in academia and in the non-profit sector and is a Fellow of the Higher Education Authority after completing the Teaching and Learning in Higher Education Programme.</p>
+    <p>Austin specialises in analysing and formulating solutions to difficult problems, managing projects and facilitating communication.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <div style="width: 150px; height: 150px; background-color: #f8f9fa; border: 2px dashed #dee2e6; border-radius: 8px; margin-right: 1.5rem; display: flex; align-items: center; justify-content: center; color: #6c757d; font-size: 0.9rem;">
+    Photo Placeholder
+  </div>
+  <div style="flex: 1;">
+    <h4 style="margin-top: 0; margin-bottom: 0.5rem;">Director Name</h4>
+    <p style="color: #6c757d; margin-bottom: 1rem;"><strong>Role :</strong> Co-Director & Software Engineer</p>
+    <p>Patricio is a seasoned software engineer and director with over 18 years of experience in consulting and software development, focusing on large-scale projects for a diverse range of companies and organizations. His expertise covers various sectors and industries, including financial institutions, NGOs, and charities, showcasing versatility and adaptability.</p>
+    <p>Specializing in software development and architecture, data pipelines, DevOps, and cloud infrastructure, he is strongly committed to sustainable software and development practices. He believes in the sustainability of a product's lifecycle, often choosing long-term viability over immediate growth.</p>
+    <p>An advocate for open-source software, he supports standards and interoperability of services. He enjoys being part of communities that foster collaboration and innovation, contributing to the open-source ecosystem whenever possible.</p>
+  </div>
+</div>
+
+---
+
+## Working With Us
+
+We're always interested in hearing from organizations looking to improve their data capabilities. Whether you need help with data strategy, analysis, system implementation, or training, we'd love to discuss how we can support your mission.
+
+**Get in touch:** [hello@goodwithdata.org.uk](mailto:hello@goodwithdata.org.uk)
+
+**Areas of expertise:**
+- Data strategy and governance
+- Analytics and reporting
+- Web scraping and data collection
+- Machine learning and AI implementation
+- Data visualization and dashboards
+- Training and capacity building
