@@ -55,7 +55,7 @@ We believe that effective use of data and technology can transform how non-profi
 
 We're always interested in hearing from organizations looking to improve their data capabilities. Whether you need help with data strategy, analysis, system implementation, or training, we'd love to discuss how we can support your mission.
 
-**Get in touch:** [hello@goodwithdata.org](mailto:hello@goodwithdata.org)
+**Get in touch:** [hello@goodwithdata.org.uk](mailto:hello@goodwithdata.org.uk)
 
 **Areas of expertise:**
 - Data strategy and governance
