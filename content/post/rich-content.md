@@ -21,6 +21,14 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ---
 
+<!-- ## Twitter Simple Shortcode -->
+
+<!-- Twitter shortcode removed due to deprecation -->
+
+<br>
+
+---
+
 ## Vimeo Simple Shortcode
 
 {{< vimeo_simple 48912912 >}}
