@@ -1,6 +1,6 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://goodwithdata.org.uk"
 theme: "up-business-theme"
-languageCode: "en-us"
+languageCode: "en-gb"
 
 title: "Good With Data CIC"
 
@@ -8,7 +8,7 @@ summaryLength: 20
 
 params:
   title: "Good With Data CIC"
-  description: "Data science and analytics consultancy helping organizations unlock the power of their data"
+  description: "We are a non-profit, community interest company, that provides data-focused consultancy services to NGOs and the charity sector."
   images: 
     - "images/gwd_logo.png"
 
@@ -19,18 +19,10 @@ params:
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
-  social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
-
   location:
     - "Brighton, London, Manchester"
-    - "Remote consultancy available"
-
   contact:
-    - "hello@goodwithdata.org"
+    - "hello@goodwithdata.org.uk"
 
   copyright: "© 2025 Good With Data CIC All Rights Reserved"
 
