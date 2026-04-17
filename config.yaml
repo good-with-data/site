@@ -4,62 +4,82 @@ languageCode: "en-gb"
 
 title: "Good With Data CIC"
 
-# googleAnalytics: ""
-
 summaryLength: 20
 
 params:
   title: "Good With Data CIC"
   description: "We are a non-profit, community interest company, that provides data-focused consultancy services to NGOs and the charity sector."
   images: 
-    - "images/hero-image.png"
+    - "images/gwd_logo.png"
 
-  logo: "arrow-up.png"
+  logo: "gwd_logo.png"
 
   favicons:
     themeColor: "#FFFFFF"
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
-  social:
-    linkedin: "https://www.linkedin.com/company/good-with-data-cic/"
-#    instagram: "#"
-#    facebook: "#"
-#    twitter: "#"
-
   location:
     - "Brighton, London, Manchester"
-
   contact:
     - "hello@goodwithdata.org.uk"
 
-  copyright: "© 2023 Good With Data All Rights Reserved"
+  copyright: "© 2025 Good With Data CIC All Rights Reserved"
 
 menus:
   main:
     - name: "Home"
-      url: "/#"
+      url: "/#hero"
       weight: 1
 
-    - name: "What we do"
-      url: "/#"
+    - name: "Services"
+      url: "/services"
       weight: 2
+
+    - name: "Portfolio"
+      url: "/portfolio"
+      weight: 3
+
+    - name: "Blog"
+      url: "/post"
+      weight: 4
+
+    - name: "About"
+      url: "/about"
+      weight: 5
 
   buttons:
     - name: "Get in touch"
-      url: "mailto:hello@goodwithdata.org.uk"
+      url: "/#contact"
       weight: 5
       pre: "btn btn-primary text-light"
 
   footer:
     - name: "Home"
-      url: "/#"
+      url: "/#hero"
       weight: 1
 
-    - name: "What we do"
-      url: "/#"
+    - name: "Services"
+      url: "/services"
       weight: 2
+
+    - name: "Portfolio"
+      url: "/portfolio"
+      weight: 3
+
+    - name: "Blog"
+      url: "/post"
+      weight: 4
+
+    - name: "About"
+      url: "/about"
+      weight: 5
 
 taxonomies:
   series: "series"
-  tags: "datascience data oriented consultancy ngo charity"
+  tags: "tags"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

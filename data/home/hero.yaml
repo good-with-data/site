@@ -2,12 +2,12 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Good With Data"
+  title: "Good With Data CIC"
   text: "We are a non-profit, community interest company, that provides data-focused consultancy services to NGOs and the charity sector"
 
   buttonPrimary:
     label: "What we do"
-    url: "#"
+    url: "/services"
 
   buttonSecondary:
     label: "Get in touch"
