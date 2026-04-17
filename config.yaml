@@ -32,10 +32,6 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "Services"
-      url: "/services"
-      weight: 2
-
     - name: "Portfolio"
       url: "/portfolio"
       weight: 3
@@ -58,10 +54,6 @@ menus:
     - name: "Home"
       url: "/#hero"
       weight: 1
-
-    - name: "Services"
-      url: "/services"
-      weight: 2
 
     - name: "Portfolio"
       url: "/portfolio"
