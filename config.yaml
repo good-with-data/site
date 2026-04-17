@@ -28,7 +28,7 @@ params:
 #    twitter: "#"
 
   location:
-    - "Brighton"
+    - "Brighton, London, Manchester"
 
   contact:
     - "hello@goodwithdata.org.uk"
