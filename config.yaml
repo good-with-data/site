@@ -56,7 +56,7 @@ menus:
       weight: 1
 
     - name: "What we do"
-      url: "/portfolio"
+      url: "/what_we_do"
       weight: 3
 
     # - name: "Blog"
@@ -64,7 +64,7 @@ menus:
     #   weight: 4
 
     - name: "Who we are"
-      url: "/about"
+      url: "/who_we_are"
       weight: 5
 
 taxonomies:
