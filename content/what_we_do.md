@@ -1,21 +1,25 @@
-## Working with Us
+---
+title: "Our Projects & Partners"
+description: "Discover our collaborative work with organisations across the charity sector and beyond"
+date: 2025-01-10
+layout: "single"
+---
 
-We're always looking to expand our network of partners and take on new projects that create positive impact in the charity and non-profit sector.
+<div style="display: flex; align-items: center; margin-bottom: 1rem;">
+  <img src="/images/london-calling-logo.png" alt="London Calling" style="height: 2.5rem; margin-right: 0.75rem;">
+  <h3 style="margin: 0;">London Calling</h3>
+</div>
 
-**What we offer:**
-- Data science and analytics expertise
-- Software engineering solutions
-- Training and capacity building
-- Collaborative project development
+The [London Calling website](https://london-calling.org.uk/) collates the latest opportunities from partners for London's not-for-profits, all in one place. London Calling is an initiative of Resource for London and London Plus, funded by City Bridge Foundation. The aim is to help connect London's thousands of charities to relevant events, training, and funding opportunities taking place across the capital.
 
-**Who we work with:**
-- Charities and non-profit organizations
-- Foundations and funders
-- Technology partners
-- Research institutions
+Good With Data developed a bespoke approach that scrapes data from partner websites and employs generative AI to classify and enhance this information. Our methodology includes partner consent and support for the project. 
 
-### Get Involved
+**Key Technologies Used:**
+- Web scraping and data collection
+- Generative AI for content classification
+- Data processing and enhancement
 
-Interested in partnering with us or have a project idea? We'd love to hear from you.
+**Impact:**
+- Connecting thousands of London charities to opportunities
+- Enhanced discoverability of sector events, funding and training
 
-[Get in touch](#contact) to discuss how we can work together to create positive impact through data and technology.

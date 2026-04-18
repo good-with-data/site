@@ -28,20 +28,20 @@ params:
 
 menus:
   main:
-    - name: "Home"
-      url: "/#hero"
-      weight: 1
+    #- name: "Home"
+    #  url: "/#hero"
+    #  weight: 1
 
-    - name: "Portfolio"
-      url: "/portfolio"
+    - name: "What we do"
+      url: "/what_we_do"
       weight: 3
 
-    - name: "Blog"
-      url: "/post"
-      weight: 4
+    # - name: "Blog"
+    #   url: "/post"
+    #   weight: 4
 
-    - name: "About"
-      url: "/about"
+    - name: "Who we are"
+      url: "/who_we_are"
       weight: 5
 
   buttons:
@@ -55,15 +55,15 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "Portfolio"
+    - name: "What we do"
       url: "/portfolio"
       weight: 3
 
-    - name: "Blog"
-      url: "/post"
-      weight: 4
+    # - name: "Blog"
+    #   url: "/post"
+    #   weight: 4
 
-    - name: "About"
+    - name: "Who we are"
       url: "/about"
       weight: 5
 
