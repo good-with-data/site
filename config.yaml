@@ -26,6 +26,8 @@ params:
 
   copyright: "© 2026 Good With Data CIC All Rights Reserved"
 
+  chatApiUrl: "http://localhost:3000"
+
 menus:
   main:
     #- name: "Home"

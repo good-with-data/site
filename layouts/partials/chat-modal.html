@@ -1,0 +1,76 @@
+<!-- Chat Modal -->
+<script>window.CHATBOT_API_URL = "{{ .Site.Params.chatApiUrl | default "http://localhost:3000" }}";</script>
+
+<div class="modal fade" id="chatModal" tabindex="-1" aria-labelledby="chatModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg">
+    <div class="modal-content">
+
+      <div class="modal-header border-0 pb-0">
+        <h5 class="modal-title text-primary fw-semibold" id="chatModalLabel">Chat with Good With Data</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+
+      <div class="modal-body pt-2">
+
+        <!-- Chat panel -->
+        <div id="chat-panel">
+          <div id="chat-thread" class="mb-3 p-3" style="height:320px; overflow-y:auto; background:#f8f9fa; border-radius:0.5rem;">
+            <div class="d-flex mb-2">
+              <div class="rounded p-2 me-auto" style="background:#e9ecef; max-width:85%;">
+                <small class="text-muted fw-semibold d-block mb-1">Good With Data</small>
+                Hello! I can answer questions about Good With Data CIC — what we do, who we are, and how we work with NGOs and charities. How can I help?
+              </div>
+            </div>
+          </div>
+          <div class="input-group mb-3">
+            <input type="text" id="chat-input" class="form-control" placeholder="Ask a question…" aria-label="Chat message" maxlength="500">
+            <button class="btn btn-primary" id="chat-send-btn" type="button">Send</button>
+          </div>
+          <div class="d-flex justify-content-between align-items-center">
+            <small class="text-muted">Want to speak to someone directly?</small>
+            <button type="button" class="btn btn-outline-primary btn-sm" id="show-contact-btn">Leave your details &rarr;</button>
+          </div>
+        </div>
+
+        <!-- Contact form panel -->
+        <div id="contact-panel" style="display:none;">
+          <p class="text-muted mb-3">Leave your details and we&rsquo;ll get back to you.</p>
+          <form id="contact-form" novalidate>
+            <div class="mb-3">
+              <label for="contact-name" class="form-label">Name <span class="text-danger">*</span></label>
+              <input type="text" class="form-control" id="contact-name" autocomplete="name" maxlength="100" required>
+            </div>
+            <div class="mb-3">
+              <label for="contact-email" class="form-label">Email <span class="text-danger">*</span></label>
+              <input type="email" class="form-control" id="contact-email" autocomplete="email" maxlength="254" required>
+            </div>
+            <div class="mb-3">
+              <label for="contact-message" class="form-label">Message</label>
+              <textarea class="form-control" id="contact-message" rows="3" maxlength="2000" placeholder="Tell us a bit about your organisation or what you need…"></textarea>
+            </div>
+            <div class="mb-3 form-check">
+              <input type="checkbox" class="form-check-input" id="gdpr-consent" required>
+              <label class="form-check-label" for="gdpr-consent">
+                <small>I consent to Good With Data CIC storing my contact details to respond to my enquiry. Your data will not be shared with third parties.</small>
+              </label>
+            </div>
+            <div id="contact-status" class="mb-2 text-danger small" role="alert" style="min-height:1.25rem;"></div>
+            <div class="d-flex justify-content-between">
+              <button type="button" class="btn btn-outline-secondary btn-sm" id="back-to-chat-btn">&larr; Back to chat</button>
+              <button type="submit" class="btn btn-primary" id="contact-submit-btn">Send message</button>
+            </div>
+          </form>
+        </div>
+
+        <!-- Success panel -->
+        <div id="success-panel" style="display:none;" class="text-center py-5">
+          <div class="mb-3 fs-1">&#10003;</div>
+          <h5 class="text-success fw-semibold">Message sent!</h5>
+          <p class="text-muted">Thank you — we&rsquo;ll be in touch soon.<br>In the meantime you can also email us at <a href="mailto:hello@goodwithdata.org.uk">hello@goodwithdata.org.uk</a>.</p>
+          <button type="button" class="btn btn-outline-primary btn-sm mt-2" id="back-to-chat-success-btn">Back to chat</button>
+        </div>
+
+      </div><!-- /.modal-body -->
+    </div>
+  </div>
+</div>

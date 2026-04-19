@@ -3,6 +3,7 @@ import "./_bootstrap";
 import "./_header";
 import "./_footer";
 
+import "../sections/chat";
 import "../sections/hero";
 import "../sections/brands";
 import "../sections/portfolio";
