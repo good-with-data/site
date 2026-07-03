@@ -39,23 +39,9 @@ menus:
     - name: "Home"
       url: "/#hero"
       weight: 1
-
-    - name: "Services"
-      url: "/services"
+    - name: "What we do"
+      url: "/what_we_do"
       weight: 2
-
-    - name: "Portfolio"
-      url: "/portfolio"
-      weight: 3
-
-    - name: "Blog"
-      url: "/post"
-      weight: 4
-
-    - name: "About"
-      url: "/about"
-      weight: 5
-
   buttons:
     - name: "Get in touch"
       url: "/#contact"
@@ -66,22 +52,9 @@ menus:
     - name: "Home"
       url: "/#hero"
       weight: 1
-
-    - name: "Services"
-      url: "/services"
+    - name: "What we do"
+      url: "/what_we_do"
       weight: 2
-
-    - name: "Portfolio"
-      url: "/portfolio"
-      weight: 3
-
-    - name: "Blog"
-      url: "/post"
-      weight: 4
-
-    - name: "About"
-      url: "/about"
-      weight: 5
 
 taxonomies:
   series: "series"
