@@ -19,12 +19,6 @@ params:
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
-  social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
-
   location:
     - "Brighton, London, Manchester"
     - "Remote consultancy available"
@@ -48,13 +42,7 @@ menus:
       weight: 5
       pre: "btn btn-primary text-light"
 
-  footer:
-    - name: "Home"
-      url: "/#hero"
-      weight: 1
-    - name: "What we do"
-      url: "/what_we_do"
-      weight: 2
+
 
 taxonomies:
   series: "series"

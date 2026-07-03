@@ -23,6 +23,7 @@ layout: "single"
 
 As part of [Islington People's Rights (IPR)](https://www.ipradvice.org.uk/) Debt Modernisation project we developed an AI triage chatbot to ease the pressure on IPR's telephone line. IPR receives around 9000 calls per year and some of those calls are better handled by external agencies. The triage bot assesses whether or not a user is eligible or able to be supported by IPR and if not they are directed to a more suitable agency. 
 
+<!--
 <div style="display: flex; align-items: center; margin-bottom: 1rem;">
   <a href="https://www.londonbp.co.uk/" style="display: inline-flex; align-items: center;">
     <img src="/images/LBP_logo.jpeg" alt="London Business Partnership" style="height: 2.5rem; margin-right: 0.75rem;">
@@ -32,4 +33,5 @@ As part of [Islington People's Rights (IPR)](https://www.ipradvice.org.uk/) Debt
 
 [London Business Partnership](https://www.londonbp.co.uk/) provides support and expert advice to small and medium size businesses. We are currently working with them to develop an AI driven expert advisor that manages the client journey from first contact to problem resolution utilising their extensive experience and historical data.
 
+-->
 </div> 
