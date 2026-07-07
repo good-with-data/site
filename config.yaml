@@ -1,8 +1,10 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://goodwithdata.org.uk"
 theme: "up-business-theme"
-languageCode: "en-us"
+languageCode: "en-gb"
 
 title: "Good With Data CIC"
+
+# googleAnalytics: ""
 
 summaryLength: 20
 
@@ -18,6 +20,12 @@ params:
     themeColor: "#FFFFFF"
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
+
+  social:
+    linkedin: "https://www.linkedin.com/company/good-with-data-cic/"
+#    instagram: "#"
+#    facebook: "#"
+#    twitter: "#"
 
   location:
     - "Brighton, London, Manchester"
@@ -36,12 +44,12 @@ menus:
     - name: "What we do"
       url: "/what_we_do"
       weight: 2
+
   buttons:
     - name: "Get in touch"
       url: "/#contact"
       weight: 5
       pre: "btn btn-primary text-light"
-
 
 
 taxonomies:
