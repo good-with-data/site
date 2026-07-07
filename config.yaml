@@ -28,8 +28,7 @@ params:
 #    twitter: "#"
 
   location:
-    - "Brighton, London, Manchester"
-    - "Remote consultancy available"
+    - "Brighton, London, Manchester, Remote"
 
   contact:
     - "hello@goodwithdata.org"
