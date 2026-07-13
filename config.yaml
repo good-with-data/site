@@ -45,7 +45,7 @@ menus:
       weight: 2
 
   buttons:
-    - name: "Get in touch"
+    - name: "Talk to us"
       url: "#"
       weight: 5
       pre: "btn btn-primary text-light"

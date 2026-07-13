@@ -10,5 +10,5 @@ content:
     url: "/what_we_do"
 
   buttonSecondary:
-    label: "Get in touch"
+    label: "Talk to us"
     url: "mailto:hello@goodwithdata.org.uk"
