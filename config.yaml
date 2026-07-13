@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Good With Data CIC"
-  description: "Data science and analytics consultancy helping organizations unlock the power of their data"
+  description: "Data science and analytics consultancy helping organisations unlock the power of their data"
   images: 
     - "images/gwd_logo.png"
 
@@ -46,9 +46,12 @@ menus:
 
   buttons:
     - name: "Get in touch"
-      url: "/#contact"
+      url: "#"
       weight: 5
       pre: "btn btn-primary text-light"
+      params:
+        data-bs-toggle: "modal"
+        data-bs-target: "#chatModal"
 
 
 taxonomies:
